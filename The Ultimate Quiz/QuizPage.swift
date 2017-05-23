@@ -5,7 +5,7 @@
 //  Created by Jonathan Quinn on 18/5/17.
 //  Copyright © 2017 Jonathan Quinn. All rights reserved.
 //
-
+//
 import UIKit
 var easyscore = String()
 
